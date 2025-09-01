@@ -429,10 +429,10 @@ const HeroSection = () => {
       
       <HeroContent>
         <MainTitle variants={titleVariants} initial="hidden" animate="visible">
-          Best Boys Hostel
+          Muhammadi Boys Hostel
         </MainTitle>
         <Subtitle variants={subtitleVariants} initial="hidden" animate="visible">
-          Muhammadi Boys Hostel
+          Where Comfort Meets Excellence 🌟
         </Subtitle>
         <Description variants={descriptionVariants} initial="hidden" animate="visible">
           Welcome to Muhammadi Boys Hostel, where comfort meets convenience. 
