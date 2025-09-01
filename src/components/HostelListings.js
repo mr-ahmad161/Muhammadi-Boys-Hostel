@@ -260,7 +260,7 @@ const HostelListings = () => {
       id: 1,
       name: "Single Bedroom (Attached bathroom)",
       location: "All rooms feature comfortable beds, cupboards, and lockers",
-      image: "/images/singal-bed.jpeg",
+      image: "./images/singal-bed.jpeg",
       fallbackEmoji: "🛏️",
       roomTypes: [
         { name: "Single Bed Room", price: "PKR 25,000/month" },
@@ -273,7 +273,7 @@ const HostelListings = () => {
       id: 2,
       name: "Double Bed Rooms (Attached bathroom)",
       location: "All rooms feature comfortable beds, cupboards, and lockers",
-      image: "/images/double-bed.jpeg",
+      image: "./images/double-bed.jpeg",
       fallbackEmoji: "🛏️🛏️",
       roomTypes: [
         { name: "Double Bed Room", price: "PKR 35,000/month" },
@@ -286,7 +286,7 @@ const HostelListings = () => {
       id: 3,
       name: "Triple Bed Rooms (Attached bathroom)",
       location: "All rooms feature comfortable beds, cupboards, and lockers",
-      image: "/images/triple-bed.jpeg",
+      image: "./images/triple-bed.jpeg",
       fallbackEmoji: "🛏️🛏️🛏️",
       roomTypes: [
         { name: "Triple Bed Room", price: "PKR 45,000/month" },
