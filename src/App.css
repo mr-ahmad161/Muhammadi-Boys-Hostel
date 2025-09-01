@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  position: relative;
+}
+
+/* Loading animation */
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-size: 1.5rem;
+  color: white;
+}
+
+/* Error handling */
+.error {
+  color: #ff6b6b;
+  background: rgba(255, 107, 107, 0.1);
+  padding: 1rem;
+  border-radius: 8px;
+  margin: 1rem;
+}
