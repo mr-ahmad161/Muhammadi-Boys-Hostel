@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Muhammadi-Boys-Hostel/static/css/main.51761fbe.css",
+    "main.js": "/Muhammadi-Boys-Hostel/static/js/main.74caef41.js",
+    "index.html": "/Muhammadi-Boys-Hostel/index.html",
+    "main.51761fbe.css.map": "/Muhammadi-Boys-Hostel/static/css/main.51761fbe.css.map",
+    "main.74caef41.js.map": "/Muhammadi-Boys-Hostel/static/js/main.74caef41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51761fbe.css",
+    "static/js/main.74caef41.js"
+  ]
+}
